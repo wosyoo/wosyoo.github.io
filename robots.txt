@@ -4,9 +4,9 @@
     Allow: /
   
     # Host
-    Host: https://tangly1024.com
+    Host: https://wosyoo.github.io
   
     # Sitemaps
-    Sitemap: https://tangly1024.com/sitemap.xml
+    Sitemap: https://wosyoo.github.io/sitemap.xml
   
     
